@@ -6,9 +6,9 @@
 
 **New here? Start with my referral link and we both win:**
 
-👉 **Sign up here: https://make.fun/r/v8ra9xda**
+👉 **Sign up here: https://make.fun/r/zq30hw4j**
 
-Referral code: **`v8ra9xda`** — make sure this code is bound to your new account when you sign up, so your signup counts.
+Referral code: **`zq30hw4j`** — make sure this code is bound to your new account when you sign up, so your signup counts.
 
 ---
 
@@ -53,7 +53,7 @@ That's it. No entry fee for most bounties, no special hardware, no team required
 ## Account setup
 
 1. Go to [make.fun](https://make.fun) and sign up. You can sign in with a Solana wallet, GitHub, Google, or Discord — pick whichever you already use.
-2. **If you're new, sign up through my referral link: https://make.fun/r/v8ra9xda** (code `v8ra9xda`). A new account that signs up with that code bound is credited to me — it costs you nothing and it supports this guide.
+2. **If you're new, sign up through my referral link: https://make.fun/r/zq30hw4j** (code `zq30hw4j`). A new account that signs up with that code bound is credited to me — it costs you nothing and it supports this guide.
 3. Once you're in, get your API key from your account. You'll need it for the kit CLI.
 
 ## Pick a bounty
@@ -121,8 +121,8 @@ Building isn't the only way to earn on make.fun. Once you have an account, you g
 
 For this guide, that's:
 
-- Link: **https://make.fun/r/v8ra9xda**
-- Code: **`v8ra9xda`**
+- Link: **https://make.fun/r/zq30hw4j**
+- Code: **`zq30hw4j`**
 
 If this guide helped you get started, signing up through that link is the easiest way to say thanks — and it doesn't cost you a thing.
 
